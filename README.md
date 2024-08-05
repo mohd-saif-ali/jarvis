@@ -23,7 +23,7 @@ Jarvis is an advanced personal assistant built to enhance productivity and strea
 1. Open your terminal or command prompt.
 2. Run the following command to clone the repository:
    ```sh
-   git clone https://github.com/yourusername/jarvis.git
+   git clone https://github.com/mohd-saif-ali/jarvis.git
    ```
 3. Navigate to the project directory:
    ```sh
